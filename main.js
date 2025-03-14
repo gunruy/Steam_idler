@@ -31,3 +31,4 @@ rl.question('Steam Guard kodunu girin: ', (steamGuardCode) => {
         rl.close(); // Hata oluşursa giriş istemini kapat
     });
 });
+//via kayapoter alto and lxtard
